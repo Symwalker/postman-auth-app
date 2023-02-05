@@ -1,0 +1,6 @@
+for mongodb connection
+it required package / module.
+mongoose
+mongoose is the library of mongodb 
+this library is use with nodejs
+=>Mongoose is a JavaScript object-oriented programming library that creates a connection between MongoDB and the Node.js JavaScript runtime environment
